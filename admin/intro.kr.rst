@@ -15,6 +15,7 @@
 이 원칙들을 강조한다. [#f1]_
 
 .. image:: img/3pilares.png
+   :align: centre
 
 
 가용성 (availability)
