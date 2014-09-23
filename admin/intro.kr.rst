@@ -39,8 +39,11 @@
 모든 원칙은 최소비용으로 구현되어야 한다. 비용이란 돈뿐만이 아니다. 개발 시간, 운영 노력, 심지어 교육훈련도 비용이다.
 
 Matsudaira는 다음 방법을 제시한다.
+
 * 상호 독립적인 (complementary) 컴포넌트의 구성 시스템 설계
+
 * 비공유 (shared-nothing) 아키텍쳐로 여유도 (redundancy) 설계
+
 * 확장용이한 partitioning 설계
 
 
