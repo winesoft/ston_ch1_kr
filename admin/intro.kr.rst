@@ -1,6 +1,6 @@
 ﻿.. _intro:
 
-1장. 엣지 전송(Edge Delivery)의 개념
+1장. 엣지 전송(Edge Delivery)
 ****************************
 
 .. toctree::
