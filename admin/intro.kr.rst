@@ -1,6 +1,6 @@
 ﻿.. _intro:
 
-1장. STON 소개
+1장. Edge Delivery Server
 ******************
 
 .. toctree::
@@ -92,7 +92,7 @@ Matsudaira는 다음 방법을 제시한다.
 .. image:: img/intro4.png
 
 
-.. rubric:: Footnotes
+.. rubric:: 
 
 .. [#f1] The Architecture of Open Source Applications / Brown & Wilson, 2012
 .. [#f2] Aberden Group / Gomez, 2008
