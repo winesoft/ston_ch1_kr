@@ -10,7 +10,13 @@
 서비스 설계의 원칙
 ====================================
 
-서비스의 성공은 가용성, 속도, 확장성에 달려있다. “확장성 웹 아키텍처와 분산 시스템 설계 (Scalable Web Architecture and Distributed Systems)”를 저술한 Kate Matsudaira도 이 원칙들을 강조한다. 
+서비스의 성공은 가용성, 속도, 확장성에 달려있다. 
+“확장성 웹 아키텍처와 분산 시스템 설계 (Scalable Web Architecture and Distributed Systems)”를 저술한 Kate Matsudaira도 
+이 원칙들을 강조한다. [#f1]_
+
+.. rubric:: Footnotes
+
+.. [#f1] The Architecture of Open Source Applications / Brown & Wilson, 2012
 
 
 
