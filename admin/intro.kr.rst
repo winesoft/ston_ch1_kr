@@ -14,23 +14,19 @@
 “확장성 웹 아키텍처와 분산 시스템 설계 (Scalable Web Architecture and Distributed Systems)”를 저술한 Kate Matsudaira도 
 이 원칙들을 강조한다. [#f1]_
 
-.. rubric:: Footnotes
-
-.. [#f1] The Architecture of Open Source Applications / Brown & Wilson, 2012
-
-
 
 가용성 (availability)
 ---------------------
 
-서비스는 항상 가능해야 한다. 사이트 장애시 90%의 사용자는 경쟁사 서비스로 이동한다.  100% 완벽한 시스템은 없다. 그러나 장애가 발생하면 복구는 빨라야 한다. 일부 결함의 전체 영향은 없어야 한다. 
+서비스는 항상 가능해야 한다. 사이트 장애시 90%의 사용자는 경쟁사 서비스로 이동한다. [#f2]_ 100% 완벽한 시스템은 없다. 그러나 장애가 발생하면 복구는 빨라야 한다. 일부 결함의 전체 영향은 없어야 한다. 
 
 
 
 속도 (performance)
 ---------------------
 
-고객은 인내심이 많지 않다. Akamai의 조사에 따르면 47%의 인터넷 사용자들은 웹페이지가 2초 안에 열리기를 기대한다. 비즈니스에서 시간은 금이다. 응답시간이 느리면 매출이 감소한다. Amazon은 응답시간이 0.1초 지연되면 매출 1%가 감소한다.  
+고객은 인내심이 많지 않다. Akamai의 조사에 따르면 47%의 인터넷 사용자들은 웹페이지가 2초 안에 열리기를 기대한다. [#f3]_ 
+비즈니스에서 시간은 금이다. 응답시간이 느리면 매출이 감소한다. Amazon은 응답시간이 0.1초 지연되면 매출 1%가 감소한다. [#f4]_
 
 
 
@@ -49,3 +45,9 @@ Matsudaira는 다음 방법을 제시한다.
 
 
 
+.. rubric:: Footnotes
+
+.. [#f1] The Architecture of Open Source Applications / Brown & Wilson, 2012
+.. [#f2] Aberden Group / Gomez, 2008
+.. [#f3] Akamai Technologies, 2009 http://www.akamai.com/html/about/press/releases/2009/press_091409.html
+.. [#f4] http://radar.oreilly.com/2009/06/bing-and-google-agree-slow-pag.html
