@@ -14,6 +14,8 @@
 “확장성 웹 아키텍처와 분산 시스템 설계 (Scalable Web Architecture and Distributed Systems)”를 저술한 Kate Matsudaira도 
 이 원칙들을 강조한다. [#f1]_
 
+.. image:: img/3pilares.png
+
 
 가용성 (availability)
 ---------------------
